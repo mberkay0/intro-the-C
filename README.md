@@ -46,3 +46,5 @@ Bucket sort, or bin sort, is a sorting algorithm that works by distributing the 
 #### Quick Sort
 Quicksort is a divide-and-conquer, is an efficient sorting algorithm.
 
+
+<img src="/images/tictoctoe.png" alt="Tic Tac Toe"/> <img src="/images/turtlerabbitrace.png" alt="Turtle Rabbit Race"/>
